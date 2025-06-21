@@ -45,7 +45,7 @@ python app.py
 ```
 
 6. ブラウザでアクセス
-`http://localhost:5000`にアクセス
+`https://weather-app-f0p1.onrender.com/`にアクセス
 
 ## デプロイ
 
